@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Obstical
+  - Letter
   layers:
   - Default
   - TransparentFX
