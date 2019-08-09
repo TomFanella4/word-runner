@@ -44,4 +44,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   restartDelay: 1
+  numberOfWords: 3
+  letterListLength: 25
   completeLevelUI: {fileID: 0}
+  playerTransform: {fileID: 1804394954929309770, guid: d6a16e23cccb01a48a8799c2e5d3a6cf,
+    type: 3}
+  wordsShort: {fileID: 4900000, guid: f68d784d4c1a80843a7f340173c21e13, type: 3}
+  wordsMedium: {fileID: 4900000, guid: 17c3a780cd7a61845839d8297041eab4, type: 3}
+  wordsLong: {fileID: 4900000, guid: 70544d15ceeee5a4d8ec1b9733a3efea, type: 3}

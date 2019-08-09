@@ -1,19 +1,19 @@
 public class Letter {
-    private string text;
+    private char text;
     private int pointValue;
     private int occurrenceCount;
 
-    public Letter(string text, int occurrenceCount, int pointValue) {
+    public Letter(char text, int occurrenceCount, int pointValue) {
         this.text = text;
         this.occurrenceCount = occurrenceCount;
         this.pointValue = pointValue;
     }
 
-    public string getText() {
+    public char getText() {
         return text;
     }
 
-    public void setText(string text) {
+    public void setText(char text) {
         this.text = text;
     }
 
